@@ -1,0 +1,12 @@
+cost functions:
+MSE (IN LINEAR REGRESSION)
+LOG LOSS (IN LOGISTIC REGRESSION)(USED TO CLASSIFICATION)
+
+#unsupervised learning
+1) k-means clustring
+
+ANN is the first algo of DEEPLEARNING
+ANN has 3 layers:
+1)input layers
+2)output layers
+3)hidden layers(can be multiple)
